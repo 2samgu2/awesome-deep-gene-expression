@@ -24,6 +24,9 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 - **2018-01** | Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders | *Gregory P. Way and Casey S. Greene*  | [Biocomputing 2018](https://doi.org/10.1142/9789813235533_0008)
 
+- **2018-12** | OUTRIDER: A Statistical Method for Detecting Aberrantly Expressed Genes in RNA Sequencing Data | *Felix Brechtmann, Christian Mertes, et al*  | [American Journal of Human Genetics](https://doi.org/10.1016/j.ajhg.2018.10.025)
+
+
 
 ## Transfer learning on gene expression data
 
