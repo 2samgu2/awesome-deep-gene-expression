@@ -14,6 +14,11 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 - **2019-6** | Convolutional neural network models for cancer type prediction based on gene expression | *Milad Mostavi, Yu-Chiao Chiu, Yufei Huang, Yidong Chen*  | [Arxiv](https://arxiv.org/abs/1906.07794) | [Github](https://github.com/chenlabgccri/CancerTypePrediction)
 
+## Autoencoders on gene expression data
+
+
+- **2018-12** | GSAE: an autoencoder with embedded gene-set nodes for genomics functional characterization | *Hung-I Harry Chen, Yu-Chiao Chiu, et al*  | [BMC Systems Biology](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0642-2)
+
 
 
 ### Contribution
