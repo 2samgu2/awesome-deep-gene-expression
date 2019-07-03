@@ -46,6 +46,11 @@ Computer Methods and Programs in Biomedicine](https://doi.org/10.1016/j.cmpb.201
 - **2016-12** | DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning | *
 Rajendra Rana Bhat, Vivek Viswanath, Xiaolin Li*  | [arxiv](https://arxiv.org/abs/1612.03211)
 
+## Densely connected neural nets (DNN) on gene expression data
+
+- **2018-12** | Deep Learning-based Identification of Cancer or Normal Tissue using Gene Expression Data | *
+TaeJin Ahn, Taewan Goo, et al*  | [2018 IEEE International Conference on Bioinformatics and Biomedicine](https://doi.org/10.1109/BIBM.2018.8621108)
+
 
 ### Contribution
 
