@@ -7,8 +7,11 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 - **2018-7** | Deep Learning Based Tumor Type Classification Using Gene Expression Data | *Boyu Lyu, Anamul Haque*  | [Arxiv](https://www.biorxiv.org/content/10.1101/364323v1) | [Github](https://github.com/HHHit/DL-based-Tumor-Classification)
 
-- **2019-6** | Convolutional neural network models for cancer type prediction based on gene expression | *
-Milad Mostavi, Yu-Chiao Chiu, Yufei Huang, Yidong Chen*  | [Arxiv](https://arxiv.org/abs/1906.07794) | [Github](https://github.com/chenlabgccri/CancerTypePrediction)
+- **2019-6** | Convolutional neural network models for cancer type prediction based on gene expression | *Milad Mostavi, Yu-Chiao Chiu, Yufei Huang, Yidong Chen*  | [Arxiv](https://arxiv.org/abs/1906.07794) | [Github](https://github.com/chenlabgccri/CancerTypePrediction)
+
+- **2018-4** | OmicsMapNet: Transforming omics data to take advantage of Deep Convolutional Neural Network for discovery | *Shiyong Ma, Zhen Zhang*  | [Arxiv](https://arxiv.org/abs/1804.05283) | [Github](https://github.com/felixshiyong/OmicsMapNet)
+
+- **2017-10** | Convolutional neural networks for structured omics: OmicsCNN and the OmicsConv layer | *Giuseppe Jurman, Valerio Maggio, et al*  | [Arxiv](https://arxiv.org/abs/1710.05918)
 
 
 ### Contribution
