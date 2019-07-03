@@ -3,7 +3,7 @@
 A curated list of awesome deep learning applications on gene expression data (RNASeq and microarray data)
 
 
-*Convolutional neural networks on gene expression data*
+## Convolutional neural networks on gene expression data
 
 - **2018-7** | Deep Learning Based Tumor Type Classification Using Gene Expression Data | *Boyu Lyu, Anamul Haque*  | [Arxiv](https://github.com/HHHit/DL-based-Tumor-Classification) | [Github](https://github.com/HHHit/DL-based-Tumor-Classification)
 
