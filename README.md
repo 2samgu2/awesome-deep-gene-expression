@@ -8,11 +8,15 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 - **2017-10** | Convolutional neural networks for structured omics: OmicsCNN and the OmicsConv layer | *Giuseppe Jurman, Valerio Maggio, et al*  | [Arxiv](https://arxiv.org/abs/1710.05918)
 
+- **2017-11** | Tumor gene expression data classification via sample expansion-based deep learning | *Jian Liu, Xuesong Wang*  | [Oncotarget](https://doi.org/10.18632/oncotarget.22762)
+
 - **2018-4** | OmicsMapNet: Transforming omics data to take advantage of Deep Convolutional Neural Network for discovery | *Shiyong Ma, Zhen Zhang*  | [Arxiv](https://arxiv.org/abs/1804.05283) | [Github](https://github.com/felixshiyong/OmicsMapNet)
 
 - **2018-7** | Deep Learning Based Tumor Type Classification Using Gene Expression Data | *Boyu Lyu, Anamul Haque*  | [Arxiv](https://www.biorxiv.org/content/10.1101/364323v1) | [Github](https://github.com/HHHit/DL-based-Tumor-Classification)
 
 - **2019-6** | Convolutional neural network models for cancer type prediction based on gene expression | *Milad Mostavi, Yu-Chiao Chiu, Yufei Huang, Yidong Chen*  | [Arxiv](https://arxiv.org/abs/1906.07794) | [Github](https://github.com/chenlabgccri/CancerTypePrediction)
+
+
 
 ## Autoencoders on gene expression data
 
@@ -32,6 +36,15 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 - **2018-4** | Transfer Learning for Molecular Cancer classification using Deep Neural Networks | *Rahul Kumar Sevakula ; Vikas Singh, et al*  | [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://doi.org/10.1109/TCBB.2018.2822803)
 
+## Ensemble learning integrated with deep learning on gene expression data
+
+- **2018-1** | A deep learning-based multi-model ensemble method for cancer prediction | *Yawen Xiaoa, Jun Wub*  | [
+Computer Methods and Programs in Biomedicine](https://doi.org/10.1016/j.cmpb.2017.09.005)
+
+## Generative adversarial networks on gene expression data
+
+- **2016-12** | DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning | *
+Rajendra Rana Bhat, Vivek Viswanath, Xiaolin Li*  | [arxiv](https://arxiv.org/abs/1612.03211)
 
 
 ### Contribution
