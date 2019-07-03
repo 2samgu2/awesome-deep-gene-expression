@@ -18,14 +18,13 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 - **2016-12** | A DEEP LEARNING APPROACH FOR CANCER DETECTION AND RELEVANT GENE IDENTIFICATION | *PADIDEH DANAEE, REZA GHAEINI and DAVID A. HENDRIX*  | [Biocomputing 2018](https://doi.org/10.1142/9789813207813_0022)
 
+- **2018-1** | Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders | *Gregory P. Way and Casey S. Greene*  | [Biocomputing 2018](https://doi.org/10.1142/9789813235533_0008)
 
 - **2018-12** | GSAE: an autoencoder with embedded gene-set nodes for genomics functional characterization | *Hung-I Harry Chen, Yu-Chiao Chiu, et al*  | [BMC Systems Biology](https://doi.org/10.1186/s12918-018-0642-2)
 
-
-- **2018-01** | Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders | *Gregory P. Way and Casey S. Greene*  | [Biocomputing 2018](https://doi.org/10.1142/9789813235533_0008)
-
 - **2018-12** | OUTRIDER: A Statistical Method for Detecting Aberrantly Expressed Genes in RNA Sequencing Data | *Felix Brechtmann, Christian Mertes, et al*  | [American Journal of Human Genetics](https://doi.org/10.1016/j.ajhg.2018.10.025)
 
+- **2018-5** | DeepProfile: Deep learning of cancer molecular profiles for precision medicine | *Ayse Berceste Dincer, Safiye Celik, Naozumi Hiranuma, Su-In Lee*  | [biorxiv]( https://doi.org/10.1101/278739) | [Github](https://github.com/suinleelab/DeepProfile) 
 
 
 ## Transfer learning on gene expression data
