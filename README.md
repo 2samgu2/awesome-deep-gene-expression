@@ -16,8 +16,15 @@ A curated list of awesome deep learning applications on gene expression data (RN
 
 ## Autoencoders on gene expression data
 
+- **2016-12** | A DEEP LEARNING APPROACH FOR CANCER DETECTION AND RELEVANT GENE IDENTIFICATION | *PADIDEH DANAEE, REZA GHAEINI and DAVID A. HENDRIX*  | [Pac Symp Biocomput](https://doi.org/10.1142/9789813207813_0022)
+
 
 - **2018-12** | GSAE: an autoencoder with embedded gene-set nodes for genomics functional characterization | *Hung-I Harry Chen, Yu-Chiao Chiu, et al*  | [BMC Systems Biology](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0642-2)
+
+## Transfer learning on gene expression data
+
+
+- **2018-4** | Transfer Learning for Molecular Cancer classification using Deep Neural Networks | *Rahul Kumar Sevakula ; Vikas Singh, et al*  | [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://doi.org/10.1109/TCBB.2018.2822803)
 
 
 
